@@ -1,3 +1,4 @@
+<div class="container">
 <h1>Welcome To <?= WEBSITE_NAME ?></h1>
 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus delectus veritatis ullam, aliquid, mollitia voluptatibus perferendis nobis magnam consequuntur esse perspiciatis dolorum reiciendis minus, numquam repudiandae fuga, iure recusandae! Necessitatibus.
 Minus perferendis ipsam molestias sapiente esse vitae consequuntur voluptas, vel iure cum quo culpa rem, expedita dignissimos error ut? Impedit illum quaerat esse, repellendus vel est exercitationem repudiandae illo, consequatur.
@@ -10,4 +11,5 @@ Suscipit voluptatibus nisi, ad eaque sapiente, quo similique molestias sunt repe
 Alias possimus deleniti id! Magni soluta vel tempora id itaque porro, commodi quo mollitia maxime saepe optio fuga alias quasi sequi nostrum exercitationem eveniet fugiat ipsam ratione molestiae. Unde, sit.
 Dolores quia minus ut neque laudantium doloremque architecto velit esse repudiandae consectetur. Dolore qui quae, ipsa blanditiis, enim ullam. Eligendi accusamus maxime, incidunt. Architecto, ducimus autem magnam eligendi deserunt, consectetur.
 Nemo ad error laudantium atque necessitatibus mollitia qui consequuntur modi. Ratione ipsam dolor perspiciatis minus fugiat minima dolores, animi aspernatur reiciendis mollitia modi quas, facilis, fuga est distinctio ullam ad.
-Nam, quis, quidem! Itaque laudantium saepe corrupti soluta, cumque? Obcaecati consectetur, ab eos cupiditate voluptate, amet asperiores quidem? Obcaecati sapiente laboriosam aspernatur vero debitis veniam neque possimus quam earum fugiat?</p>
+Nam, quis, quidem! Itaque laudantium saepe corrupti soluta, cumque? Obcaecati consectetur, ab eos cupiditate voluptate, amet asperiores quidem? Obcaecati sapiente laboriosam aspernatur vero debitis veniam neque possimus quam earum fugiat?</p>   
+</div>
