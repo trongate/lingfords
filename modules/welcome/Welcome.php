@@ -13,7 +13,7 @@ class Welcome extends Trongate {
     public function index(): void {
         $data = [
             'view_module' => 'welcome',
-            'view_file' => 'default_homepage'
+            'view_file' => 'lingfords_homepage'
         ];
 
         $this->templates->public($data);

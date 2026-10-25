@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body style="background-color: lime;">
-    <h1>Custom Template</h1>
+    <div><?= display($data) ?></div>
 </body>
 </html>
