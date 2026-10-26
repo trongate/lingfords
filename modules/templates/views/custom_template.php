@@ -5,9 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/trongate.css">
+    <link rel="stylesheet" href="css/lingfords.css">
     <title>Document</title>
 </head>
 <body>
-    <div><?= display($data) ?></div>
+    <header>Header to go here.</header>
+    <main><?= display($data) ?></main>
+    <footer>Footer to go here.</footer>
 </body>
 </html>
