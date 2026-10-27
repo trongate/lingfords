@@ -58,6 +58,7 @@ body {
 header {
     background-color: #111;
     color: #eee;
+    border-bottom: 5px #ffc107 solid;
 }
 
 header a {
@@ -84,13 +85,13 @@ header .button:hover {
 }
 
 .header-lg {
-    border: 1px red solid;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
 
 .header-lg > div {
+    margin-top: .6em;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -110,15 +111,13 @@ header .button:hover {
     min-width: 12em;
 }
 
-.header-lg > div, .header-lg > nav {
-    border: 1px pink solid;
-}
-
 .header-lg > nav {
+    margin-top: 1em;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    background-color: #333;
 }
 
 .header-lg > nav > ul {
