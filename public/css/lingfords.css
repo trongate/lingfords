@@ -74,6 +74,7 @@ header .button {
     border: 1px #eee solid;
     color: #333;
     font-size: .85em;
+    margin-top: .6em;
 }
 
 header .button:hover {
@@ -131,6 +132,23 @@ header .button:hover {
 
 .header-lg > nav > ul > li {
     margin: .3em 2em;
+}
+
+.header-lg .tg-home {
+    margin-left: .4em;
+    margin-right: .2em;
+}
+
+.header-lg .tg-sign-in {
+    margin-left: .2em;
+    margin-top: .4em;
+    margin-right: .3em;
+}
+
+.header-lg .tg-shopping-basket {
+    margin-left: .4em;
+    top: 1px;
+    position: relative;
 }
 
 .header-sm {
