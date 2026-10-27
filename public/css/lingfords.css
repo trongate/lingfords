@@ -105,6 +105,10 @@ header .button:hover {
     text-align: center;
 }
 
+.header-lg > div > div:nth-child(odd) {
+    min-width: 12em;
+}
+
 .header-lg > div, .header-lg > nav {
     border: 1px pink solid;
 }

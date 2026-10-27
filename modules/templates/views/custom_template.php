@@ -21,7 +21,7 @@
                     <div>Watches of Distinction</div>
                 </div>
                 <div>
-                    <div class="sm">Your shopping basket is empty</div>
+                    <div>Your basket is empty</div>
                     <div><?= anchor('#', 'View Basket', array('class' => 'button')) ?></div>
                 </div>
             </div>
