@@ -9,7 +9,20 @@
     <title>Document</title>
 </head>
 <body>
-    <header>Header to go here.</header>
+    <header>
+        <div class="header-lg">
+            <div>
+                <div>Top Left Links</div>
+                <div>
+                    <div>LOGO HERE</div>
+                    <div>Watches of Distinction</div>
+                </div>
+                <div>View Your Basket</div>
+            </div>
+            <nav>Top nav to go here</nav>
+        </div>
+        <div class="header-sm">Small header</div>
+    </header>
     <main><?= display($data) ?></main>
     <footer>Footer to go here.</footer>
 </body>

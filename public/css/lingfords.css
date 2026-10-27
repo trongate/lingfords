@@ -58,7 +58,36 @@ body {
 header {
     background-color: #111;
     color: #eee;
-    padding: 1em;
+}
+
+.header-lg {
+    border: 1px red solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header-lg > div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-lg > div > div {
+    margin: 1em;
+}
+
+.header-lg > div > div:nth-child(even) {
+    text-align: center;
+}
+
+.header-lg > div, .header-lg > nav {
+    border: 1px pink solid;
+}
+
+.header-sm {
+    display: none;
 }
 
 main {
