@@ -17,8 +17,8 @@
                     <div><?= anchor('#', 'Customer Login') ?></div>
                 </div>
                 <div>
-                    <div>LOGO HERE</div>
-                    <div>Watches of Distinction</div>
+                    <div class="logo"><?= WEBSITE_NAME ?></div>
+                    <div>~ Watches of Distinction ~</div>
                 </div>
                 <div>
                     <div>Your basket is empty</div>

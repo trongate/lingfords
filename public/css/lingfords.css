@@ -137,6 +137,12 @@ header .button:hover {
     display: none;
 }
 
+.logo {
+    text-transform: uppercase;
+    font-size: 2.3em;
+    color: #ffecb9;
+}
+
 main {
     background-color: #fff;
     flex-grow: 1;
