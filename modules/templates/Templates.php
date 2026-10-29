@@ -42,7 +42,7 @@ class Templates extends Trongate {
     public function public(array $data): void {
         $data['additional_includes_top'] = $this->build_additional_includes($data['additional_includes_top'] ?? []);
         $data['additional_includes_btm'] = $this->build_additional_includes($data['additional_includes_btm'] ?? []);
-        $this->display('custom_template', $data);
+        $this->display('lingfords', $data);
     }
 
     /**

@@ -47,7 +47,7 @@
 }
 
 body {
-    background-color: #ddd;
+    background-image: url('../images/wallpaper.png');
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -163,6 +163,9 @@ header .button:hover {
 main {
     background-color: #fff;
     flex-grow: 1;
+    -webkit-box-shadow: -4px 27px 37px 33px rgba(32,36,42,0.10);
+    -moz-box-shadow: -4px 27px 37px 33px rgba(32,36,42,0.10);
+    box-shadow: -4px 27px 37px 33px rgba(32,36,42,0.10);
 }
 
 footer {

@@ -1,4 +1,3 @@
-<div class="container">
 <h1>Welcome To <?= WEBSITE_NAME ?></h1>
 <h2>Sub Headline Ahoy!</h2>
 <h3>Here Is An H3</h3>
@@ -18,4 +17,3 @@ Alias possimus deleniti id! Magni soluta vel tempora id itaque porro, commodi qu
     <button>Primary Button</button>
     <button class="alt">Alternative Button</button>
 </p>  
-</div>

@@ -39,7 +39,7 @@
         </div>
         <div class="header-sm">Small header</div>
     </header>
-    <main><?= display($data) ?></main>
+    <main class="container-xxl"><?= display($data) ?></main>
     <footer>Footer to go here.</footer>
 </body>
 </html>
