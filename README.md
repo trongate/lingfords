@@ -6,7 +6,7 @@ Trongate on Ice gives you a dependable, consistent foundation to build on, witho
 
 ## What is Trongate on Ice?
 
-Trongate on Ice was forked from Trongate version **2.2026.1019**, the latest version of the original framework at the time. Unlike the main Trongate repository, it does not routinely receive new features, refactoring or general development updates. It is maintained conservatively and changes only when there is a compelling reason.
+Trongate on Ice was forked from Trongate version **2.2026.1029**, the latest version of the original framework at the time. Unlike the main Trongate repository, it does not routinely receive new features, refactoring or general development updates. It is maintained conservatively and changes only when there is a compelling reason.
 
 It remains part of the Trongate ecosystem. It is based on the original framework, uses the same conventions, and works the same way, so existing Trongate knowledge and documentation still apply.
 
@@ -34,7 +34,7 @@ If you want the latest features and ongoing development, use the [main Trongate 
 | Keeping pace with the main branch | Yes | No |
 | Approach to change | Active | Conservative |
 
-Trongate on Ice is based on Trongate version **2.2026.1019**.
+Trongate on Ice is based on Trongate version **2.2026.1029**.
 
 ## Maintenance policy
 
@@ -55,7 +55,7 @@ The priority is long-term stability, predictability and reliability rather than 
 
 ## Why Trongate?
 
-- High performance ([benchmarks](https://trongate.io/benchmarks))
+- High performance ([benchmarks](https://trongateframework.com/benchmarks))
 - Stability-focused
 - Zero dependencies
 - No Composer
@@ -69,9 +69,9 @@ The priority is long-term stability, predictability and reliability rather than 
 
 ## Resources
 
-[Documentation](https://trongate.io/documentation)
+[Documentation](https://trongateframework.com/documentation)
 
-[Discussion Forums](https://trongate.io/forums)
+[Discussion Forums](https://trongateframework.com/forums)
 
 [Main Trongate framework repository](https://github.com/trongate/trongate-framework)
 

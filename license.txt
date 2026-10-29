@@ -1,7 +1,7 @@
 /**
  * Trongate
  *
- * Version: 2.2026.1019
+ * Version: 2.2026.1029
  *
  * This product is released under the MIT License (MIT).
  *
@@ -25,9 +25,9 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @author  Dave Connelly (dave@trongate.io) and all contributors
+ * @author  Dave Connelly (david@trongateframework.com) and all contributors
  * @copyright   Copyright (c) 2019, Dave Connelly.
  * @license http://opensource.org/licenses/MIT  MIT License.
- * @link    https://trongate.io
+ * @link    https://trongateframework.com
  * @contributors https://github.com/trongate/trongate-framework/graphs/contributors
  */
